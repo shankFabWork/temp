@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NexaQuark-Consulting/static/css/main.da2529fe.css",
+    "main.js": "/NexaQuark-Consulting/static/js/main.2a2794ac.js",
+    "static/media/logo_without_name.png": "/NexaQuark-Consulting/static/media/logo_without_name.36f2197c6be16ba08ddd.png",
+    "static/media/consultation.svg": "/NexaQuark-Consulting/static/media/consultation.ede9466b3634733f30c8d1a1b7bbe939.svg",
+    "static/media/web-dev.svg": "/NexaQuark-Consulting/static/media/web-dev.fd61237124f5b922e412437caf61ea58.svg",
+    "static/media/hosting.svg": "/NexaQuark-Consulting/static/media/hosting.b755d3eebb287dde8fcd287cb1d5653e.svg",
+    "static/media/app.svg": "/NexaQuark-Consulting/static/media/app.3d550d02d3409ad587451a91e97e78fb.svg",
+    "static/media/kws.png": "/NexaQuark-Consulting/static/media/kws.877da8110793af2c3d27.png",
+    "static/media/Web-developer.svg": "/NexaQuark-Consulting/static/media/Web-developer.6c7276fff94ccaae45617195f0ef27ae.svg",
+    "static/media/footer.svg": "/NexaQuark-Consulting/static/media/footer.70b54bbe52a797ce69c1.svg",
+    "static/media/web.svg": "/NexaQuark-Consulting/static/media/web.bceccecdef8e71bd5a8d73effe14fdba.svg",
+    "index.html": "/NexaQuark-Consulting/index.html",
+    "static/media/hero-bg.svg": "/NexaQuark-Consulting/static/media/hero-bg.c3b4448a16ff1a8da834.svg",
+    "main.da2529fe.css.map": "/NexaQuark-Consulting/static/css/main.da2529fe.css.map",
+    "main.2a2794ac.js.map": "/NexaQuark-Consulting/static/js/main.2a2794ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da2529fe.css",
+    "static/js/main.2a2794ac.js"
+  ]
+}
